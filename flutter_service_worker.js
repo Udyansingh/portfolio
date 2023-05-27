@@ -3,15 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "89a7c4ff64d5198c8e43aaa289f38d49",
-"assets/AssetManifest.smcbin": "8373b608b5e3e6e4d06aac13d54cc33d",
-"assets/FontManifest.json": "516dd9e797d9d326464e0ba5dd15b4c9",
+const RESOURCES = {"assets/AssetManifest.json": "d15aa4d394244b68c8fc29a386b56fb4",
+"assets/AssetManifest.smcbin": "223ba4a9fe2ae0c634e822577edec0d4",
+"assets/FontManifest.json": "6ffd2bdecb65807c547c5c25455201a7",
+"assets/fonts/Aquire-BW0ox.otf": "f359848fa5af41e6972013df237b4b10",
 "assets/fonts/Bartomes.otf": "a726ce22ccb242b0d1f1c66fd20bca68",
 "assets/fonts/Fauna.ttf": "86bfb0699e5d96eea67c29df2095864d",
 "assets/fonts/Fontspring-DEMO-visbycf-thin.otf": "43f5d20783a722c729c0d63dc845af51",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/fonts/Royce-Semibold.otf": "7b03f49a8fb0a0696f360330a4004e71",
-"assets/NOTICES": "665e78fb0b2539e96f70266fbe55dac6",
+"assets/NOTICES": "6a8ef10d3aeb3299869adca111bc1899",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -27,9 +28,9 @@ const RESOURCES = {"assets/AssetManifest.json": "89a7c4ff64d5198c8e43aaa289f38d4
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8518cd5c4eb28ab551e41049b0e034d6",
-"/": "8518cd5c4eb28ab551e41049b0e034d6",
-"main.dart.js": "5df0383ea44170bbc167d0fb0f01ea29",
+"index.html": "fe37a5fd670c5aecce38f11d49054591",
+"/": "fe37a5fd670c5aecce38f11d49054591",
+"main.dart.js": "3ce37e3bd0139ff4778d8d714a5292c2",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "0325640b78b9f97959290dc5ebb8b3ed"};
 // The application shell files that are downloaded before a service worker can
