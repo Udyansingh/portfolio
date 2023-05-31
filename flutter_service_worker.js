@@ -10,7 +10,7 @@ const RESOURCES = {"assets/AssetManifest.json": "fc6d0789443ca05a4c1948f742cc89b
 "assets/fonts/AvenirLTStd-Roman.otf": "b1d7c6e085a31e9f5e4745c9aef6eb4b",
 "assets/fonts/Bartomes.otf": "a726ce22ccb242b0d1f1c66fd20bca68",
 "assets/fonts/Fauna.ttf": "86bfb0699e5d96eea67c29df2095864d",
-"assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
+"assets/fonts/MaterialIcons-Regular.otf": "7c5a48eedb42f52a15fb7b09e622e9a2",
 "assets/fonts/Museo_Slab_500.otf": "2130497aad8ba8134b954fd17f4df7d0",
 "assets/fonts/Royce-Semibold.otf": "7b03f49a8fb0a0696f360330a4004e71",
 "assets/NOTICES": "999efaabbb05876a61259b1293e13dd4",
@@ -29,9 +29,9 @@ const RESOURCES = {"assets/AssetManifest.json": "fc6d0789443ca05a4c1948f742cc89b
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "20349d3e784041dfe4dd1316d2abb761",
-"/": "20349d3e784041dfe4dd1316d2abb761",
-"main.dart.js": "ca2af81b5a5fe88cad424a512687f635",
+"index.html": "555a6c3b18d741ecb71df2ca632bc1ef",
+"/": "555a6c3b18d741ecb71df2ca632bc1ef",
+"main.dart.js": "172e66887480001ecb617315b7dccc55",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "0325640b78b9f97959290dc5ebb8b3ed"};
 // The application shell files that are downloaded before a service worker can
